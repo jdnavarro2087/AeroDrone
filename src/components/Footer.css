@@ -1,0 +1,15 @@
+.footer {
+  color: fuchsia;
+  background-color: rgb(34, 33, 33);
+}
+
+.footer {
+  background-color: rgb(34, 33, 33);
+  color: rgb(15, 68, 153);
+  padding: 0px;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
